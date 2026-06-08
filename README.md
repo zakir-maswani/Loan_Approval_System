@@ -16,7 +16,7 @@ A machine learning-powered web application that predicts loan approval decisions
 - [Installation](#installation)
 - [Usage](#usage)
 - [Input Features](#input-features)
-- [Technologies Used](#technologies-used
+- [Technologies Used](#technologies-used)
 
 ---
 

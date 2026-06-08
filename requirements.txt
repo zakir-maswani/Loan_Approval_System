@@ -1,3 +1,7 @@
 pandas
 numpy
-pickle
+matplotlib 
+seaborn 
+joblib
+scikit-learn 
+streamlit 
